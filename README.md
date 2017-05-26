@@ -1,6 +1,6 @@
-# [Card grid with image upload example - MaterializeCSS]
+# Card grid with image upload example - MaterializeCSS
 
-*Card grid with image upload made with MaterializeCSS**
+**Card grid with image upload made with MaterializeCSS**
 
 Features
 
