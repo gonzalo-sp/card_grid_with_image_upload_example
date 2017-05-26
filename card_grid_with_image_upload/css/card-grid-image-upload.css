@@ -1,0 +1,9 @@
+.disable-delete{
+	pointer-events: none;
+	opacity: 0.4;
+}
+
+.image-size{
+	width:213px; 
+	height:213px;
+}
